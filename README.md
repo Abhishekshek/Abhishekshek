@@ -1,119 +1,30 @@
 # Hi, I'm Abhishek 👋
 
-### Infrastructure & AI Automation
+**Infrastructure & AI Automation Lead** · building agentic systems that run on real enterprise infrastructure.
 
-Building **agentic systems that operate on real enterprise infrastructure** — connecting AI, IT operations, networking and security to move support from reactive ticket handling toward intelligent, human-governed automation.
+I work where IT operations meets AI: turning reactive ticket queues into agent-driven resolution, with humans kept in the loop where it matters.
 
-I work at the intersection of **Infrastructure · Network & Security · Cloud · AI Automation**.
+## 🔧 What I build
 
----
+- **AI-orchestrated service desk**: a LangGraph orchestrator that routes to MCP tool agents across ITSM, monitoring, firewall and M365 integrations
+- **Enterprise RAG**: access-controlled retrieval, LLM provider failover, security testing
+- **Document ingestion pipelines**: n8n workflows that feed vector stores from file shares
+- **Data & scraping pipelines**: Python + Scrapling with LLM-based filtering and a web dashboard
+- **Network & infra design**: current/target-state architecture, migrations, dev environments
 
-## 🚀 What I Build
+## 🧠 Currently
 
-### 🤖 Agentic IT Operations
-Designing AI-powered service desk systems where an orchestrator routes requests to specialized agents through MCP — connecting ITSM, monitoring, security and Microsoft 365 tooling.
+- Moving IT support from reactive tickets to autonomous agents with human-in-the-loop guardrails
+- Exploring open-source agent architectures (LangGraph patterns, Hermes)
 
-### 🧠 Enterprise RAG
-Building production-oriented RAG systems with controlled retrieval, access-aware knowledge, LLM provider failover and security testing.
+## 🛠 Stack
 
-### ⚙️ Infrastructure & Security Automation
-Automating operational workflows across networks, firewalls, servers and cloud environments using Python, n8n, Ansible and Terraform.
+**AI / Agents:** LangGraph · MCP · RAG · Claude · Groq  
+**Automation:** n8n · Python · Scrapling  
+**Data:** Supabase  
+**IT Ops:** GLPI · Zabbix · Sophos · Microsoft 365 · Windows Server / IIS  
+**Docs & Design:** draw.io · Obsidian
 
-### 📄 Document Intelligence
-Building ingestion pipelines that transform enterprise documents and file shares into searchable, AI-ready knowledge bases.
+## 📫 Reach me
 
-### 📊 Data & Automation Pipelines
-Developing Python-based scraping and data-processing pipelines with LLM-assisted filtering and web dashboards.
-
-### 🌐 Network & Cloud Architecture
-Working on current-state / target-state architecture, migration planning, network security, firewall design, AWS connectivity and scalable infrastructure.
-
----
-
-## 🧩 How I Think About Infrastructure
-
-```text
-                    ┌─────────────────────┐
-                    │   AI Orchestrator   │
-                    │      LangGraph      │
-                    └──────────┬──────────┘
-                               │
-              ┌────────────────┼────────────────┐
-              ▼                ▼                ▼
-           ITSM            Monitoring        Security
-            GLPI             Zabbix        Sophos / M365
-              └────────────────┼────────────────┘
-                               ▼
-                         MCP Tool Agents
-                               │
-                               ▼
-                     Human-in-the-loop
-```
-
-> **AI should automate the work — not remove the human from the loop where judgment matters.**
-
----
-
-## 🛠️ Technology
-
-**AI / Agents**  
-LangGraph · MCP · RAG · Claude · Groq
-
-**Automation**  
-Python · n8n · Ansible · Terraform · Scrapling
-
-**Cloud & Networking**  
-AWS · Networking · Routing · Firewalling · Network Security
-
-**Infrastructure & Security**  
-Sophos · Microsoft 365 · Windows Server / IIS
-
-**IT Operations**  
-GLPI · Zabbix · Monitoring · Service Desk Automation
-
-**Data**  
-Supabase · Vector Databases
-
-**Engineering / Knowledge**  
-Git · draw.io · Obsidian
-
----
-
-## 🔭 Currently Exploring
-
-- Agentic IT operations with human-in-the-loop guardrails
-- LangGraph agent architectures
-- MCP-based enterprise tooling
-- Autonomous infrastructure operations
-- AIOps and intelligent incident resolution
-- Cloud & network security automation
-
----
-
-## 📌 Featured Work
-
-**Agentic Service Desk**  
-LangGraph + MCP + ITSM + Monitoring + Security integrations
-
-**Enterprise RAG Platform**  
-Secure retrieval + vector search + LLM orchestration + provider failover
-
-**Infrastructure Automation**  
-Network / firewall / cloud automation using Python, Ansible and Terraform
-
-**AIOps Workflows**  
-Monitoring signals → intelligent analysis → automated operational actions
-
-> Selected projects and experiments are being documented here as they evolve.
-
----
-
-## 📫 Connect
-
-[LinkedIn](https://www.linkedin.com/in/abhishek-kumar-8205091aa/) · [Email](mailto:abhi2653764@gmail.com)
-
----
-
-<p align="center">
-  <i>Building infrastructure that doesn't just run — it understands, responds and improves.</i>
-</p>
+[Website](https://abhishekshek.github.io) · [LinkedIn](https://www.linkedin.com/in/abhishek-kumar-8205091aa/) · [Email](mailto:abhi2653763@gmail.com)
